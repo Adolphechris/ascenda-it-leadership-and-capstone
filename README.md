@@ -1,14 +1,14 @@
-# 🏛️ ASCENDA IT — Leadership Technique & Grand Capstone (Palier 12)
+# 🏛️ ASCENDA IT — Enterprise Architecture & Technical Leadership
 
-![CTO](https://img.shields.io/badge/Leadership-CTO%20%2F%20CISO%20Track-gold)
-![Capstone](https://img.shields.io/badge/Project-Grand%20Capstone%20J600-black)
+![Architecture](https://img.shields.io/badge/Architecture-Enterprise%20System-gold)
+![Leadership](https://img.shields.io/badge/Strategy-CTO%20%2F%20CISO%20Framework-black)
 
-Bienvenue dans le dépôt de mon **Grand Capstone d'Architecture et de Leadership Technique (Palier 12 — Level Master Executive)**.
+Ce dépôt héberge les **spécifications d'architecture d'entreprise, les RFCs techniques et le cadre de gouvernance** d'ASCENDA IT.
 
 ---
 
-## 🗂️ Structure Prévue
+## 🗂️ Modules & Architecture
 
-- `00-architecture-rfcs/` : Documents d'architecture RFC, choix technologiques et stratégie SI.
-- `01-grand-capstone-j600/` : Audit complet, infrastructure Zero-Trust globale et plan de continuité d'activité (PCA/PRA).
-- `02-tech-leadership/` : Gestion des équipes d'ingénierie, budgets Cloud & gouvernance IT.
+- `00-architecture-rfcs/` : Documents d'architecture (RFCs), standards techniques & choix stratégiques SI.
+- `01-enterprise-capstone/` : Spécifications complètes d'infrastructure, PCA/PRA & gouvernance globale.
+- `02-tech-leadership/` : Frameworks d'ingénierie, gestion de la dette technique & budgets Cloud.
