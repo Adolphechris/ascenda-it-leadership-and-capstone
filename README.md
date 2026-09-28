@@ -9,6 +9,6 @@ Bienvenue dans le dépôt de mon **Grand Capstone d'Architecture et de Leadershi
 
 ## 🗂️ Structure Prévue
 
--  : Documents d'architecture RFC, choix technologiques et stratégie SI.
--  : Audit complet, infrastructure Zero-Trust globale et plan de continuité d'activité (PCA/PRA).
--  : Gestion des équipes d'ingénierie, budgets Cloud & gouvernance IT.
+- `00-architecture-rfcs/` : Documents d'architecture RFC, choix technologiques et stratégie SI.
+- `01-grand-capstone-j600/` : Audit complet, infrastructure Zero-Trust globale et plan de continuité d'activité (PCA/PRA).
+- `02-tech-leadership/` : Gestion des équipes d'ingénierie, budgets Cloud & gouvernance IT.
